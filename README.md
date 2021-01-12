@@ -37,6 +37,9 @@ https://cloud.ibm.com/catalog/services/tone-analyzer
 
 ![workflow](Images/workflow.jpg)
 
+Special Thanks to [Kyle Cloud](https://github.com/kylestormcloud) for the creativity discussion!
+
+
 ---
 
 
