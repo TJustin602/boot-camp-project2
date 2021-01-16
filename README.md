@@ -20,20 +20,9 @@ Humans communicate in unstructured ways, and because it is not very clear for co
 
 Natural language Processing (NLP) is a subfield of artificial intelligence, in which its depth involves the interactions between computers and humans.
 
-my project proposal is to take paragraphs of documentation, from published articles of a ‘charged’ financial / stock market related topic ( like Tesla), and utilize Python with ML and NLP capabilities for the ‘machine’ to tell me in a short summary, what is the core topic being conveyed in the articles. 
+my project proposal is to take tweets from twitter based on tesla, and utilize Python with ML and NLP capabilities for the ‘machine’ to tell analyze and come up with sentiment on those tweets. I shall capture 5 days worth of data. 
 
-for example: the URL article below gives opinion to IF a stock market crash is coming. 
-
-I dont want the machine to predict the crash but with additional articles given,determine in a summary sentence what is the ‘essence’ of the articles being discussed. 
-
-https://medium.com/yardcouch-com/is-a-crash-coming-comparing-todays-stock-market-to-the-dot-com-bubble-d2683ebe28d7
-
-Approaches to the python jupyter notebook program include what we learned in module 12.x and possibly the usage of TensorFlow, which we were exposed to in neural networks and possibly maybe even the IBM Tone Analyzer. 
-
-https://www.tensorflow.org/overview/
-
-
-https://cloud.ibm.com/catalog/services/tone-analyzer
+Then take Stock Market data of that same data sample, and combine the sentiment analysis with the market data and show a correlation between the two data sets. 
 
 ![workflow](Images/workflow.jpg)
 
